@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1039441091736",
+    "project_id": "artwaves-66d77",
+    "storage_bucket": "artwaves-66d77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039441091736:android:8e37cbcfae4bc25c2044ed",
+        "android_client_info": {
+          "package_name": "com.example.artwave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuKTGbNeMC3ZodLxThh1d-FxTR5qvH-Tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
